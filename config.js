@@ -48,11 +48,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot god'
+global.botname = '✨Admin bot✨'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
-global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28\n' 
+global.packname = '✨Admin✨' 
+global.author = '✨ Charles Admin ✨' 
+global.igfg = '▢ Follow on \n' 
 global.dygp = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
 global.fgyt = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
